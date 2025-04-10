@@ -49,7 +49,23 @@ This system provides a comprehensive solution for managing placement activities,
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Acknowledgments
+## 🚀 Future Enhancements
 
-- Thanks to all contributors and evaluators
-- Special thanks to Sir Bhavsinhji Polytechnic Institute for the opportunity 
+We're constantly working to improve this system! Here's what's coming next:
+- Enhanced security features
+- Real-time notifications
+- Advanced reporting dashboard
+- Mobile-friendly interface
+
+## 💡 Contributing
+
+We welcome contributions! If you'd like to help improve this project:
+1. Fork the repository
+2. Create your feature branch
+3. Commit your changes
+4. Push to the branch
+5. Create a Pull Request
+
+## 🌟 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Dhyan327/Placement-Committee-System&type=Date)](https://github.com/Dhyan327/Placement-Committee-System.git) 
