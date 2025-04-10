@@ -65,7 +65,3 @@ We welcome contributions! If you'd like to help improve this project:
 3. Commit your changes
 4. Push to the branch
 5. Create a Pull Request
-
-## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Dhyan327/Placement-Committee-System&type=Date)](https://github.com/Dhyan327/Placement-Committee-System.git) 
