@@ -1,0 +1,20 @@
+Username,Password,First Name,Last Name,Age,Enrollment Number,Mobile Number,City,State,Country,Zip Code,School Name,10th Mark,12th Mark,College Name,CGPA
+JohnDoe,secure456,John,Doe,21.0,3216432100,8546957411.0,Hong Kong,Manchuria,China,745228,Victoria School,65.0,87.0,Victoria University,8.0
+AliceSmith,Alice123,Alice,Smith,20.0,1234567890,1234567890.0,Los Angeles,California,USA,90001,Lakeside School,79.5,82.3,California University,7.8
+BobJohnson,Bob456,Bob,Johnson,19.0,2345678900,2345678901.0,New York,New York,USA,10001,Parkview School,56.2,59.7,NewYork University,7.4
+IanDavis,Ian789,Ian,Davis,20.0,9012345678,9012345678.0,Dallas,Texas,USA,75201,Parkway School,78.3,80.4,Texas University,7.7
+JessicaRodriguez,Jessica123,Jessica,Rodriguez,22.0,1234501234,123456789.0,San Jose,California,USA,95101,Valley School,79.4,82.1,SanJose University,8.1
+KevinMartinez,Kevin456,Kevin,Martinez,18.0,2345012345,1234506789.0,Austin,Texas,USA,73301,Sunset School,65.8,67.3,Texas University,7.4
+LindaWilson,Linda789,Linda,Wilson,21.0,3450123450,2345017890.0,Jacksonville,Florida,USA,32099,Westside School,77.5,79.2,Florida University,7.8
+MichaelAnderson,Michael123,Michael,Anderson,23.0,4501234501,3450128901.0,SanFrancisco,California,USA,94101,Lincoln School,80.2,82.6,California University,8.3
+NancyTaylor,Nancy789,Nancy,Taylor,17.0,5012345012,4501239012.0,Indianapolis,Indiana,USA,46201,Riverside School,57.9,58.9,Indian University,7.7
+OscarThomas,Oscar123,Oscar,Thomas,22.0,1234501234,5012340123.0,Columbus,Ohio,USA,43085,Springfield School,55.3,57.7,Ohio State University,7.5
+PeterMoore,Peter456,Peter,Moore,19.0,1234501234,123456789.0,Fort Worth,Texas,USA,76101,Brookside School,78.6,80.1,Texas University,7.6
+RachelWhite,Rachel123,Rachel,White,18.0,3450123450,2345017890.0,Detroit,Michigan,USA,48201,Woodland School,79.8,82.7,Michigan University,8.0
+VioletLee,Violet456,Violet,Lee,22.0,1234501234,123456789.0,Washington,Columbia,USA,20001,Washington School,79.8,81.8,Georgetown University,8.2
+WilliamAllen,Will123,William,Allen,19.0,1234501234,1234506789.0,Boston,Massachusetts,USA,02101,Bayview School,76.6,78.5,Harvard University,8.0
+XenaScott,Xena789,Xena,Scott,20.0,2345012345,2345017890.0,Memphis,Tennessee,USA,38101,Magnolia School,49.2,51.0,Memphis University,3.8
+DianaBrown,Diana123,Diana,Brown,22.0,4567890123,4567890123.0,Houston,Texas,USA,77001,Greenwood School,54.3,58.1,Houston University,7.6
+CharlieWilliams,Pass789,Charlie,Williams,21.0,3456789012,3456789012.0,Chicago,Illinois,USA,60601,Jefferson School,81.8,80.6,Illinois University,8.2
+Dhyan,Dhyan327,Dhyan,Maniyar,17.0,2364903161,9426937893.0,Bhavnagar,Gujarat,India,364001,FCHS,77.0,77.0,Sir BPTI,8.8
+jainil,jainil123,jk,kapadia,17.0,236490316094,7990078350.0,Bhavnagar,Gujarat,India,364001,FCHS,93.0,0.0,Sir BPTI,10.0
