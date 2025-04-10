@@ -41,8 +41,8 @@ This system provides a comprehensive solution for managing placement activities,
 
 ## Project Information
 
-- **Developers**: Maniyar Dhyan
-- **Enrollment Numbers**: 236490316113
+- **Developer**: Maniyar Dhyan
+- **Enrollment Number**: 236490316113
 - **Institution**: Sir Bhavsinhji Polytechnic Institute
 
 ## License
