@@ -25,6 +25,7 @@ This system provides a comprehensive solution for managing placement activities,
 1. Clone the repository or download the project files
 2. Navigate to the project directory
 3. Run the main application:
+   
    ```bash
    python main.py
    ```
