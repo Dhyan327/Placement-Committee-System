@@ -10,8 +10,8 @@ def made_by():
             Thanks for evaluating our Project.
             Have a Nice day! \U0001f600
 
-            Placement Committe Project made by    : Maniyar Dhyan & Jainil Kapadia 
-            Enrollment No.                        : 236490316113  & 236490316094
+            Placement Committe Project made by    : Maniyar Dhyan
+            Enrollment No.                        : 236490316113
             College Name                          : Sir Bhavsinhji Polytechnic Institute
             Term                                  : Summer-2024
              
